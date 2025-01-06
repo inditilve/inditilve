@@ -19,10 +19,6 @@ I've been on a career break since Aug '22, focusing on getting fit, spending qua
 ### Find me all around the web:
 
 <p align="left">
-<a href="https://x.com/inditilve" target="blank"><img align="center" src="https://camo.githubusercontent.com/8c709aaebc7feee6050eba44984b294d9da3ace3353bd5eed8b499dd04af3c06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/inditilve/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30" /></a>
+<a href="https://x.com/inditilve" target="blank"><img align="center" src="https://camo.githubusercontent.com/8c709aaebc7feee6050eba44984b294d9da3ace3353bd5eed8b499dd04af3c06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465" alt="" height="30" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inditilve&show_icons=true&locale=en" alt="inditilve" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inditilve&" alt="inditilve" /></p>
