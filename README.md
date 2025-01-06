@@ -1,6 +1,6 @@
 # 👋 Hi , I'm Indraneel Tilve, aka Indi 👋</h1>
 
-![Banner Image](https://github.com/inditilve/inditilve/blob/main/indi_lionrock_animated.png) 
+<img src ="https://github.com/inditilve/inditilve/blob/main/indi_lionrock_animated.png" width="400" height="500" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inditilve&label=Profile%20views&color=0e75b6&style=flat" alt="inditilve" /> </p>
 
