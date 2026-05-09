@@ -1,9 +1,10 @@
-# 👋 Hi , I'm Indraneel Tilve, aka Indi 👋</h1>
+# Hi , I'm Indraneel Tilve, aka Indi 👋</h1>
 
 <img src ="https://github.com/inditilve/inditilve/blob/main/indi_lionrock_animated.png" width="400" height="500" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inditilve&label=Profile%20views&color=0e75b6&style=flat" alt="inditilve" /> </p>
 
+![Indi's GitHub stats](https://github-stats-extended.vercel.app/api?username=inditilve&show_icons=true&theme=transparent&include_all_commits=true&show=reviews)
 ## About Me 🚀
 
 I'm a passionate and seasoned full-stack software engineer with over a decade of experience in financial services. I started my career at JPMC Treasury Services, then moved on to Securities Lending at Morgan Stanley, and finally worked on Margin, Collateral, Valuation & all things Post-Trade at BFAM, a multi-strategy hedge fund.  
@@ -11,8 +12,8 @@ I'm a passionate and seasoned full-stack software engineer with over a decade of
 I've been on a career break since Aug '22, focusing on getting fit, spending quality time with my wife and cat, practicing polyrhythms on guitar, and travelling the world.
 
 - 🌱 Currently learning: **Math for ML, running distilled LLMs locally, vectorizing knowledge graphs**
-- 🔭 Working on: **self-hosted media server/NAS/private cloud, my personal website, music companion app, investment metrics, and a chess engine**
-- 🌍 Tech: **Python, Kotlin, Java, Scala, React+TS, SQL**
+- 🔭 Working on: **self-hosted media server/NAS/private cloud, portfolio website, music companion app, investment metrics, and a chess engine**
+- 🌍 Tech: **Python, Kotlin/Scala/Java(in that order of preference), React+TS+Next.js, AWS/GCP, Docker, Flutter, Go, C#/.NET, SQL(PostgreSQL/MSSQL/Oracle/DB2/Sybase), noSQL(MongoDB, Firebase)**
 
 ## Get in Touch 📬
 
