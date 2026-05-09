@@ -10,9 +10,9 @@ I'm a passionate and seasoned full-stack software engineer with over a decade of
 
 I've been on a career break since Aug '22, focusing on getting fit, spending quality time with my wife and cat, practicing polyrhythms on guitar, and travelling the world.
 
-- 🌱 Learning: _Juggling coding agents without losing context, distributed consensus techniques, vectorizing knowledge graphs, and what makes Dorian sound so good_
-- 🔭 Working on: _Investment metrics, self-hosted media server/private cloud, portfolio website to showcase pet projects, music companion app,  and a chess engine_
-- 🌍 Tech: _Python, Kotlin/Scala/Java(in that order of preference), React+TS+Next.js, AWS/GCP, Docker, Flutter, Go, C#/.NET, SQL(PostgreSQL/MSSQL/Oracle/DB2/Sybase), noSQL(MongoDB, Firebase)_
+- 🌱 **Learning**: _Juggling coding agents without losing context, distributed consensus techniques, vectorizing knowledge graphs, and what makes Dorian sound so good_
+- 🔭 ****Working** on**: _Investment metrics, self-hosted media server/private cloud, portfolio website to showcase pet projects, music companion app,  and a chess engine_
+- 🌍 **Tech**: _Python, Kotlin/Scala/Java(in that order of preference), React+TS+Next.js, AWS/GCP, Docker, Flutter, Go, C#/.NET, SQL(PostgreSQL/MSSQL/Oracle/DB2/Sybase), noSQL(MongoDB, Firebase)_
 
 ![Indi's GitHub stats](https://github-stats-extended.vercel.app/api?username=inditilve&show_icons=true&theme=transparent&include_all_commits=true&show=reviews)
 ## Get in Touch 📬
